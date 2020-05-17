@@ -88,7 +88,7 @@ yy = "y"
 z = str(random.randint(0,9))+str(random.randint(0,9))+str(random.randint(0,9))+"580"+str(random.randint(0,9))
 zz = "z"
 
-metin = "satranç"
+metin = sys.argv[1]
 sifre = []
 
 
